@@ -1,0 +1,45 @@
+<html>
+
+<head>
+<title>Title</title>
+<link href="https://fonts.googleapis.com/css?family=Georama&display=swap" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=Anek+Telugu&display=swap" rel="stylesheet" />
+<link href="homepage.css" rel="stylesheet"> 
+</head>
+
+<body>
+
+<div class="navbar">
+
+<ul class="navbar">
+<li>HOME</li>
+<li>CLUBS</li>
+<li>EVENTS</li>
+<li>SETTINGS</li>
+</ul>
+
+</div>
+
+<div class="subdiv1">
+<h1>All scattered information,
+right here,
+at your fingertips.</h1>
+
+<button>SIGN UP</button> <button>LOG IN</button>
+</div>
+
+<div class="subdiv2">
+<h1>Never get lost or confused with all your club schedules.</h1>
+<button>SCHEDULES</button>
+</div>
+
+<div class="subdiv3">
+<h1>All your club project links in one place.</h1>
+<button>PROJECTS</button>
+</div>
+
+
+<footer></footer>
+</body>
+
+</html>
