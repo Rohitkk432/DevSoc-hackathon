@@ -45,10 +45,6 @@ li.navbar{
 		margin-top: 12px;
 }
 
-li.navbar::hover{
-	cursor: pointer;
-}
-
 div.sublist1{
 	float: center;
 }
@@ -75,10 +71,6 @@ button{
 	font-size: 20px;
 	margin: 100px;
 	box-shadow: 6px 6px rgba(0, 0, 0, 0.25);
-}
-
-button::hover{
-	cursor: pointer;
 }
 
 h1.statement1{
