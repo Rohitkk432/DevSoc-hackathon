@@ -7,6 +7,7 @@
 body{
 	background-color: #f77e21;
 	color: #fff;
+	overflow-x: hidden;
 }
 
 div.navbar{
@@ -80,7 +81,7 @@ h1.statement1{
  h1.statement3{
 	text-align: left;
 	clear: left;
-	margin-left: 2.5em;
+	margin-left: 1em;
  }
 
 h1.statement2{
@@ -88,7 +89,7 @@ h1.statement2{
 	clear: right;
 	float: right;
 	display: block;
-	margin-right: 2.5em;
+	margin-right: 1em;
 	margin-left: 4em;
 }
 
@@ -111,3 +112,69 @@ div.subdiv3 > button{
 .button1{
 	margin-left: 15%;
 }  
+
+div.dot{
+	position: absolute;
+	border-radius: 50%;
+}
+
+.dot1{
+	background-color: #fef9a7;
+	width: 30em;
+	height: 30em;
+	left: 75%;
+}
+
+.dot2{
+	background-color: #fac213;
+	width: 15em;
+	height: 15em;
+	left: 65%;
+	top: 50%;
+}
+
+.dot3{
+	background-color: #fac213;
+	width: 20em;
+	height: 20em;
+	right: 85%
+}
+
+.dot4{
+	background-color: #fef9a7;
+	width: 30em;
+	height: 30em;
+	right: 70%;
+	top: 110%;
+}
+
+.dot5{
+	background-color: #fac213;
+	width: 25em;
+	height: 25em;
+	right: 60%;
+	top: 125%;
+}
+
+.dot6{
+	background-color: #fef9a7;
+	width: 12em;
+	height: 12em;
+	top: 165%;
+	right: 67%;
+}
+
+.dot7{
+	background-color:#fac213;
+	width: 25em;
+	height:25em;
+	left: 55%;
+}
+
+.dot8{
+	background-color:fef9a7;
+	width: 20em;
+	height: 20em;
+	left: 72%;
+	top: 245%;
+}
