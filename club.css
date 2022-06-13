@@ -1,0 +1,148 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #f77e21;
+	color: #fff;
+	overflow-x: hidden;
+}
+div.navbar{
+	background-color: #d61c4e;
+	width: 100%;
+	height: 80px;
+	box-shadow: 0px 6px rgba(0, 0, 0, 0.25);
+}
+
+ul.navbar{
+	list-style: none;
+	display: flex;
+	align-items: center;
+	justify-items: center;
+	margin: 10px 20px 2px 2px;
+	text-align: center;
+	float: right;
+}
+
+li.navbar{
+		font-family: 'Georama';
+		width: 6em;
+		height: 50px;
+		font-size: 20px;
+		margin-top: 12px;
+}
+
+h1{
+	font-family: 'Anek Telugu';
+	font-size: 50px;
+	font-weight: 20;
+	margin-top: 5%;
+	margin-left: 20%;
+}
+
+h2{
+	font-family: 'Anek Telugu';
+	font-size: 35px;
+	font-weight: 20;
+	margin-left:20%;
+	margin-top: 20px;
+}
+
+p{
+	font-family: 'Anek Telugu';
+	font-size: 25px;
+	font-weight: 20;
+	margin-left: 20%;
+	width: 43%;
+}
+
+div.subdiv{
+	background-color: rgba(214, 28, 78, 0.25);
+	margin-left: 10%;
+	margin-bottom: 10%;
+	width: 80%;
+	box-shadow: 10px 10px rgba(0, 0, 0, 0.25);
+}
+
+h2.subdiv{
+	margin-left: 1em;
+	margin-right: 1em;
+	margin-top: 20px;
+	width: calculate(100%-2em);
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+p.subdiv{
+	margin-left: 1.5em;
+	margin-right: 1.5em;
+	width: calculate(100%-3em);
+}
+
+button.subdiv{
+	background-color: rgba(254, 249, 167, 0.5);
+	border: none;
+	color: #fff;
+	margin-left: 10%;
+	width: 100px;
+	height: 40px;
+	border-radius: 25%;
+	margin-right: 30%;
+	margin-bottom: 40px;
+	box-shadow: 0px 4px rgba(0, 0, 0, 0.25);
+}
+
+div.subdiv1{
+	height: auto;
+}
+
+p.subdiv1{
+	height: 300px;
+}
+
+p.subdiv2{
+	height: 150px;
+}
+
+button.button2{
+	margin-right: 10%;
+}
+
+
+div.dot{
+	position: absolute;
+	border-radius: 50%;
+	box-shadow: 4px 4px rgba(0, 0, 0, 0.25);
+	z-index:-1;
+}
+
+.dot1{
+	background-color: #fef9a7;
+	width: 30em;
+	height: 30em;
+	left: 75%;
+}
+
+.dot2{
+	background-color: #fac213;
+	width: 15em;
+	height: 15em;
+	left: 65%;
+	top: 50%;
+}
+
+.dot3{
+	background-color: #fac213;
+	width: 20em;
+	height: 20em;
+	right: 85%
+}
+
+footer{
+	background-color: #d61c4e;
+	width: 100%;
+	height: 150px;
+	margin-top: 20px;
+}
