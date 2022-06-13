@@ -58,6 +58,58 @@ p{
 	width: 43%;
 }
 
+div.subdiv{
+	background-color: rgba(214, 28, 78, 0.25);
+	margin-left: 10%;
+	margin-bottom: 10%;
+	width: 80%;
+	box-shadow: 10px 10px rgba(0, 0, 0, 0.25);
+}
+
+h2.subdiv{
+	margin-left: 1em;
+	margin-right: 1em;
+	margin-top: 20px;
+	width: calculate(100%-2em);
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+p.subdiv{
+	margin-left: 1.5em;
+	margin-right: 1.5em;
+	width: calculate(100%-3em);
+}
+
+button.subdiv{
+	background-color: rgba(254, 249, 167, 0.5);
+	border: none;
+	color: #fff;
+	margin-left: 10%;
+	width: 100px;
+	height: 40px;
+	border-radius: 25%;
+	margin-right: 30%;
+	margin-bottom: 40px;
+	box-shadow: 0px 4px rgba(0, 0, 0, 0.25);
+}
+
+div.subdiv1{
+	height: auto;
+}
+
+p.subdiv1{
+	height: 300px;
+}
+
+p.subdiv2{
+	height: 150px;
+}
+
+button.button2{
+	margin-right: 10%;
+}
+
 
 div.dot{
 	position: absolute;
@@ -86,4 +138,11 @@ div.dot{
 	width: 20em;
 	height: 20em;
 	right: 85%
+}
+
+footer{
+	background-color: #d61c4e;
+	width: 100%;
+	height: 150px;
+	margin-top: 20px;
 }
