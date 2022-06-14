@@ -181,3 +181,15 @@ div.dot{
 	left: 75%;
 	top: 100em;
 }
+
+a:link{
+	text-decoration: inherit;
+    color: inherit;
+    cursor: auto;
+}
+
+a:visited {
+    text-decoration: inherit;
+    color: inherit;
+    cursor: auto;
+}
