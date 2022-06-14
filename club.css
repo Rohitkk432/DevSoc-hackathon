@@ -146,3 +146,16 @@ footer{
 	height: 150px;
 	margin-top: 20px;
 }
+
+
+a:link{
+	text-decoration: inherit;
+    color: inherit;
+    cursor: auto;
+}
+
+a:visited {
+    text-decoration: inherit;
+    color: inherit;
+    cursor: auto;
+}

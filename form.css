@@ -130,3 +130,20 @@ h2{
 	float: right;
 }
 
+h1.login{
+	text-align: center;
+	margin-right: 10%;
+}
+
+
+a:link{
+	text-decoration: inherit;
+    color: inherit;
+    cursor: auto;
+}
+
+a:visited {
+    text-decoration: inherit;
+    color: inherit;
+    cursor: auto;
+}
