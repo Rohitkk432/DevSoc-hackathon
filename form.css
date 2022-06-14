@@ -40,6 +40,9 @@ div.form{
 	margin-right: 10%;
 	background-color: rgba(254, 249, 167, 0.25);
 	box-shadow: 10px 10px rgba(0, 0, 0, 0.25);
+	margin-bottom: 75px;
+	padding-top: 45px;
+	padding-bottom: 25px;
 }
 
 label, input, select{
@@ -65,8 +68,13 @@ input, select{
 	margin-top: 10px;
 	margin-bottom: 30px;
 	font-size: 30px;
-	border-radius: 10%;
+	border-radius: 20%;
 	box-shadow: 0px 4px rgba(0, 0, 0, 0.25);
+	padding: 5px 20px;
+}
+
+option{
+	border: none;
 }
 
 
@@ -74,5 +82,51 @@ footer{
 	background-color: #d61c4e;
 	width: 100%;
 	height: 150px;
+}
+
+h1{
+	color: #fff;
+	margin-left: 10%;
+	font-family:'Anek Telugu';
+	font-size: 60px;
+	margin-top: 70px;
+	margin-bottom: 20px;
+	font-weight: 20;
+    	
+}
+
+#top{
+	padding-top: 30px;
+}
+
+button{
+	background-color: #d61c4e;
+	font-family:'Georama';
+	color: #fff;
+	border: #d61c4e;
+	width: 175px;
+	height: 50px;
+	padding: 2px, 5px;
+	font-size: 20px;
+	box-shadow: 6px 6px rgba(0, 0, 0, 0.25);
+	margin-left: 10%;
+	margin-bottom: 5%;
+}
+
+div.buttons{
+	width: 100%;
+	display: flex;
+}
+
+h2{
+	display: inline-block;
+	font-family:'Georama';
+	color: #fff;
+	width: 300px;
+	font-weight: 20;
+	margin-right: 10%;
+	margin-left: 10%;
+	height: 100px;
+	float: right;
 }
 
