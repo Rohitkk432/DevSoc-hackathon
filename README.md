@@ -1,5 +1,5 @@
 # DevSoc-hackathon
-DevSoc mentees hackathon - 2021
+DevSoc mentees hackathon - 2021 0x746C4e4a32EF13782714baAdAC1b83139981C5Ac
 
 Had a problem with remembering all club events? Ever meticuously planned for your club, only to find out a clash with another? Don't worry, we got you sorted.
 
